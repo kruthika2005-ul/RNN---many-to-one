@@ -1,8 +1,8 @@
 streamlit
-tensorflow
-scikit-learn
 pandas
 numpy
+scikit-learn
+tensorflow
 matplotlib
-h5py
-protobuf
+plotly
+joblib
